@@ -15,3 +15,4 @@ This is the updated version of Csq1, This includes many useful stuffs which are 
 3. import : use to import modules<br />
 4. when : similar to if but not have to put perenthesis<br />
 5. var : this keyword can consider the type according to the values<br />
+and more....
